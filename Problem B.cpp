@@ -1,3 +1,4 @@
+//Much more challenging but still fun to solve, and much cleaner solution compared to my answer to Problem A.
 #include <bits/stdc++.h>
 using namespace std;
 
